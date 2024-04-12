@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppTarjetas</string>
+    <!-- Compose Quadrant screen -->
+    <string name="full_name">Julio Cubas</string>
+    <string name="tittle">Android Developer Extraordinaire</string>
+    <string name="number">991089330</string>
+    <string name="carrera">Ing. de Sistemas</string>
+    <string name="email">julio.cubas@unmsm.edu.pe</string>
+</resources>
